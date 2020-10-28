@@ -7,7 +7,7 @@
 ########################################
 apt update && apt upgrade 
 pkg install git -y 
-git clone https://githuh.com/M4ND33P-M4L4K4R/Mr.Filer
+git clone https://github.com/M4ND33P-M4L4K4R/Mr.Filer
 
 chmod +x File.py 
 
